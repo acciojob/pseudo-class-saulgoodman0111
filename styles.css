@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
 .contain::before{
-	content: 'Before Element ';
+	content: 'Before Element';
 	color:red;
 }
 .contain::after {
-	content: ' After Element';
+	content: 'After Element';
 	color: red;
 }
